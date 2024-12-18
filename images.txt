@@ -1,2 +1,3 @@
 amazoncorretto:17-alpine
 portainer/portainer-ce
+portainer/agent
