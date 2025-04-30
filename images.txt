@@ -2,3 +2,4 @@ amazoncorretto:17-alpine
 portainer/portainer-ce
 portainer/agent
 node:18
+jenkins/jenkins:lts
