@@ -4,4 +4,5 @@ portainer/agent
 node:18
 node:18-alpine
 node:23
+node:23-alpine
 jenkins/jenkins:lts
